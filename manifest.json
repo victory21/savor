@@ -1,0 +1,11 @@
+{
+    "name" : "Savor",
+    "version" : "0.0.1",
+    "manifest_version" : 2,
+    "content_scripts": [
+        {
+          "matches": ["https://www.ubereats.com/"],
+          "js": ["content.js"]
+        }
+      ]
+}
