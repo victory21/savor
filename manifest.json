@@ -9,3 +9,14 @@
         }
       ]
 }
+
+
+{
+  "name": "$avour",
+  "short_name": "$",
+  "theme_color": "#ffffff",
+  "background_color": "#f3f121",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
