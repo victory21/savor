@@ -1,1 +1,1 @@
-alert("You have 20$ for Nike")
+alert("You have 20$ for Nike. Your code is CODE-FOR-NIKE")
