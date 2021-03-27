@@ -9,6 +9,14 @@
         {
           "matches": ["https://www.ubereats.com/"],
           "js": ["content.js"]
+        },
+        {
+          "matches": ["https://www.chipotle.com/"],
+          "js": ["chipotle.js"]
+        },
+        {
+          "matches": ["https://www.nike.com/"],
+          "js": ["nike.js"]
         }
       ]
 }

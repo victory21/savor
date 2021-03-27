@@ -1,0 +1,1 @@
+alert("You have 20$ for Nike")
