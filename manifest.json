@@ -1,8 +1,6 @@
 {
       "name": "$avour",
   "short_name": "$",
-  "theme_color": "#ffffff",
-  "background_color": "#f3f121",
     "version" : "0.0.1",
     "manifest_version" : 2,
     "content_scripts": [
